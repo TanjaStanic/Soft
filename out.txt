@@ -1,0 +1,12 @@
+RA 74/2015 Tanja Stanic
+file	sum
+video-0.avi	-8
+video-1.avi	2
+video-2.avi	-20
+video-3.avi	6
+video-4.avi	-16
+video-5.avi	68
+video-6.avi	-42
+video-7.avi	-7
+video-8.avi	-10
+video-9.avi	11
